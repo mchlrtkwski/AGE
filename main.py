@@ -1,4 +1,6 @@
 import binascii
+import view
+
 
 
 
@@ -16,3 +18,5 @@ while line:
     x = x + 1;
 
 f.close()
+new = view()
+
